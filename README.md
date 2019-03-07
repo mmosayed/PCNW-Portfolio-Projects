@@ -17,7 +17,7 @@ You will be working on one of the following clones:
 
 #### Tasks
 
-- Create a Trello Board.
+- Create a Trello Board or Github Projects.
   - Create three columns: "Not Started", "In Progress/Reviewed", and "Finished"
   - Use tags for your tasks such as: Design, Planning, Development, Bug, Enhancement
 - Create a brand. Use the idea to create your product brand. Come up with a name, color scheme and overall vision for your product.
